@@ -1,6 +1,6 @@
-Terraform with Azure
+**Terraform with Azure**
 1.Create the modules folder
-2.Create the main.tf for appservice inside resource code have to write and vnet
+2.Create the main.tf for appservice inside resource code.
 3.create the main.tf file for appservice with vnet
 4.Download the terraform tool
 5.Authenticate with azure using azure cli
